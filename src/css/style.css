@@ -18,15 +18,15 @@ body {
   font-family: "Noto Sans KR";
   font-weight: 300;
   font-size: 3.7rem;
-  padding-top: 20%;
+  padding-top: 15%;
   padding-bottom: 5%;
 }
 
 .scroll-down {
   font-size: 4rem;
-  padding: 20px;
+  padding: 15px;
   height: 40px;
-  padding-bottom: 20%;
+  padding-bottom: 15%;
 }
 
 .scroll-down-icon {
@@ -54,7 +54,7 @@ body {
 }
 
 .explanation {
-  padding-bottom: 20%;
+  padding-bottom: 15%;
 }
 
 .sub-explanation {
