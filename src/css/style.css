@@ -14,31 +14,41 @@ body {
   text-align: center;
 }
 
+.title {
+  font-family: "Noto Sans KR";
+  font-weight: 300;
+  font-size: 3.7rem;
+  padding-top: 20%;
+  padding-bottom: 5%;
+}
+
 .scroll-down {
   font-size: 4rem;
-  padding-top: 20px;
+  padding: 20px;
+  height: 40px;
+  padding-bottom: 20%;
 }
 
 .scroll-down-icon {
   animation: motion 1s linear 0s infinite alternate;
   -webkit-animation: motion 1s linear 0s infinite alternate;
   animation-timing-function: ease-in-out;
-  padding-top: 0;
+  padding: 0;
 }
 
 @keyframes motion {
   0% {
-    padding-top: 0px;
+    padding: 0px;
   }
   100% {
-    padding-top: 40px;
+    padding: 40px;
   }
 }
 -webkit-@keyframes motion {
   0% {
-    padding-top: 0px;
+    padding: 0px;
   }
   100% {
-    padding-top: 40px;
+    padding: 40px;
   }
 }
