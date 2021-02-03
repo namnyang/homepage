@@ -52,3 +52,30 @@ body {
     padding: 40px;
   }
 }
+
+.explanation {
+  padding-bottom: 20%;
+}
+
+.sub-explanation {
+  font-size: 2rem;
+}
+
+.project-table {
+  width: auto;
+  height: min-content;
+  border-spacing: 7rem;
+  text-align: center;
+}
+
+a {
+  color: #222;
+  text-decoration: none;
+  transition: all ease 0.5s 0.1s;
+}
+
+a:hover {
+  color: #06c;
+  font-size: 2.3rem;
+  text-shadow: 0 0 70px;
+}
